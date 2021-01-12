@@ -1,0 +1,11 @@
+app:
+  name: Validador de Senha
+  api:
+    title: Validador de Senha
+    version: 1.0.0
+    description: API para validar senha
+    base-package: com.itau.api
+    contact-name: Guilherme {gH}
+    contact-email: meuemail@email.com
+    swagger:
+      enable: true
