@@ -44,11 +44,11 @@ http://localhost:8080
 ```
 ## /api
 
-| Status | Feature | Metodo HTTP | Endpoint                            
-| ------ | ------- | ------ | -------------------------------- | ---------- |
-| 200   | abordagem principal | GET | **/api/validador** |  |
-| 200   | abordagem 01 | GET | **/api/validador1** | |
-| 200   | abordagem 02 | GET | **/api/validador2** | |
+| Status | Feature | HTTP | Endpoint                            
+| ------| ------- | ------ | -------------------------------- |
+| 200   | principal | GET | **/api/validador** |
+| 200   | abordagem 01 | GET | **/api/validador1** | 
+| 200   | abordagem 02 | GET | **/api/validador2** |
 
 
 ## Swagger
@@ -78,7 +78,6 @@ Na segunda abordagem a validação foi implementada em um unico metodo na camada
 Na terceira abordagem a validação foi implementada em um único metodo verificando primeiro em um if a quandade de caracteres em seguida laços para realizar as outras validações.
 
 
-_Para mais exemplos, consulte a _ 
 
 
 
@@ -86,11 +85,5 @@ _Para mais exemplos, consulte a _
 
 
 
-## Meta
 
-Seu Nome – [@SeuNome](https://twitter.com/...) – SeuEmail@exemplo.com
-
-Distribuído sob a licença XYZ. Veja `LICENSE` para mais informações.
-
-[https://github.com/yourname/github-link](https://github.com/othonalberto/)
 
